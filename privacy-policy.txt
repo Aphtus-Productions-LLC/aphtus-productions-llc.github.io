@@ -1,0 +1,33 @@
+# Aphtus Productions LLC Privacy Policy
+
+## Introduction
+
+This Privacy Policy explains how we collect and use your information inside our games and applications.
+
+## Data Collection and Use
+
+
+We do not collect or store any personal data ourselves unless you explicitly provide it to us, such as when you contact us for support.
+
+
+## Third Party Data
+
+Some of Aphtus Productions LLC's apps use Google AdMob to serve advertisements. AdMob may collect and use data about you to customize
+advertising based on your interests. This data may include your device's advertising identifier, IP address, and device information. 
+We do not control or influence the data collection and use practices of AdMob. 
+
+To opt out of personalized google ads, visit ```https://support.google.com/My-Ad-Center-Help/answer/12155764?hl=en&visit_id=638463791079635104-146301497&rd=1```.
+For more information about 
+
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. All links will be updated and the modification date at the bottom of the page will reflect
+the date of the most recent change.
+
+
+## Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at AphtusProductionsLLC@gmail.com
+
+Last updated: (add date)
